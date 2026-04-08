@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/192937097?v=4" width="180" style="border-radius: 50%;">
+  <img src="https://github.com/InesCamargo/InesCamargo/blob/main/IMG-20230325-WA0033.jpg?raw=true" width="180" style="border-radius: 50%;">
 </p>
+
 
 
 # Olá! Eu sou a Inês 👋
@@ -11,7 +12,7 @@ Atualmente faço parte da trilha **DIO Campus Expert**, desenvolvendo projetos, 
 ---
 
 ## 🚀 Sobre mim
-- 💡 Graduanda de análise e desenvolvimento de sistemas, graduanda de matemática e criadora de conteúdo na área de tecnologia  
+- 💡 Graduada em Pedagogia, Graduanda de análise e desenvolvimento de sistemas, graduanda de matemática e criadora de conteúdo na área de tecnologia  
 - 🌱 Sempre aprendendo e compartilhando o que descubro  
 - 🤝 Acredito no poder das comunidades da Educação, da Ciência e da Tecnologia.  
 - ✨ Construindo autoridade através do desenvolvimento de habilidades para projetos, artigos e participação ativa nas áreas de meu interesse. 
@@ -36,7 +37,7 @@ Atualmente faço parte da trilha **DIO Campus Expert**, desenvolvendo projetos, 
 
 ## 📚 Artigos e Conteúdos
 - **Meu blog:** https://desejandosaber.blogspot.com/
-- 
+ 
 ## 📝 Artigos Publicados
 
 - **Sinapses e Bits: Cocriação Binailógica**  
